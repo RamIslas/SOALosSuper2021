@@ -14,7 +14,7 @@ Los merge solo se realizan si el código está completamente terminado [EVITAR H
 ### EJEMPLO🧑‍💼 
 
 ```
-CREO RAMA "CANCELAR PEDIDO"
+CREO RAMA "Hola"
 
 ```
 
